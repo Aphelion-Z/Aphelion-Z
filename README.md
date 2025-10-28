@@ -16,4 +16,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aphelion-z&label=Profile%20views&color=0e75b6&style=flat" alt="aphelion-z" /> </p>
 
-<img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aphelion-z/aphelion-z/output/snake.svg" alt="Snake animation" />
+
+###
