@@ -33,6 +33,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          EXCLUDED: "Aphelion-Z/express"
           EXCLUDED_LANGS: "html,tex"
         run: |
           python3 --version
