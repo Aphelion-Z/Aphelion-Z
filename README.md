@@ -17,6 +17,17 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview"  />
+  <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/main/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview"  />
+  <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/main/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages"  />
+  <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/main/generated/languages.svg#gh-light-mode-only" alt="Most Used Languages"  />
+</div>
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/output/snake.svg" alt="Snake animation" />
 
 ###
