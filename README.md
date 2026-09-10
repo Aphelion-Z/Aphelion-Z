@@ -8,7 +8,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Aphelion-z&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-trophies.vercel.app/?username=Aphelion-z&theme=dark_lover&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Aphelion-z&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
   <br clear="both">
@@ -20,7 +20,7 @@
 
   <br clear="both">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aphelion-z&radius=16&theme=modern-lilac&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/activity-graph/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
