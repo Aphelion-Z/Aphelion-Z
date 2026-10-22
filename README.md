@@ -19,8 +19,9 @@
   <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/main/generated/languages.svg#gh-light-mode-only" alt="Most Used Languages"  />
 
   <br clear="both">
-
+  <!--
   <img src="https://raw.githubusercontent.com/Aphelion-z/Aphelion-z/activity-graph/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  -->
 </div>
 
 ###
